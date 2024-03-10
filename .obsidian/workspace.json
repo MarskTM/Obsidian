@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "baf3eb03b8e379d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce5a3de9f9396284",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7c92b3cc587e85b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Note/2024-03-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa89cb62762817d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Transaction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85513a15480815c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9854da2be7356d18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a32227316838fe8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72a7a91c5011b47c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68e1fa806a4e7877",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5
+  },
+  "right": {
+    "id": "d4890106e2cc1d42",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bcc00d9c6ddacb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "523796c567f5f1a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Knowledge/Transaction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c853507e751582c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Knowledge/Transaction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "254f32c32d4266ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da13d9c3504e43d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Knowledge/Transaction.md"
+              }
+            }
+          },
+          {
+            "id": "3c3f8fe93eb043c7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "e96266377cb78c8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94a61867b7e471a4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba2f1e054dbb0751",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
+    }
+  },
+  "active": "2a32227316838fe8",
+  "lastOpenFiles": [
+    "Daily Note/2024-03-09.md",
+    "Knowledge/Transaction.md",
+    "Daily Note/2024-03-03.md",
+    "Daily Note/2024-03-08.md",
+    "Daily Note/2024-03-05.md",
+    "Daily Note/2024-03-04.md",
+    "Daily Note/2024-02-24.md",
+    "Daily Note/2024-02-22.md",
+    "Daily Note/2024-02-21.md",
+    "Daily Note/2024-02-20.md",
+    "Daily Note/2024-02-19.md",
+    "Knowledge/Docker_Network.md",
+    "Knowledge/Docker_volume.md",
+    "Knowledge/Docker_Compose.md",
+    "Knowledge/Docker_Engine.md",
+    "Knowledge/Docker_Overview.md",
+    "English Note/Mạo từ trong Tiếng Anh.md",
+    "English Note/Giới từ trong Tiếng Anh.md",
+    "English Note/2024-02-29.md",
+    "Knowledge/HTTP_handler.md",
+    "Knowledge/Dockerfile_CLI.md",
+    "Knowledge/Dockerfile_Advance.md",
+    "Knowledge/Message_Queue.md",
+    "Src/Media/redis-image-example.png",
+    "Src/Media/Inheritance_example.png",
+    "Src/Media/discord-server-system.png",
+    "Src/Media/encapsulation_example.png",
+    "Daily Note/2024-03-02.md",
+    "Daily Note/2024-03-01.md",
+    "Daily Note/2024-02-25.md",
+    "English Note",
+    "Src/Media/worker_pool_example_1.png",
+    "Src/Media/Kafka_introduce_image.png",
+    "Src/Media/Polymorphism_example.png",
+    "Src/Media/message-queue-example-1.png",
+    "Src/Media/Encapsulation_example.png",
+    "Src/Media/docker-architecture-img.png",
+    "Knowledge/Chưa đặt tên",
+    "Src/Media",
+    "Src/Assets",
+    "Ascss",
+    "Src",
+    "Src/Template",
+    "Knowledge",
+    "Paper",
+    "Daily Note"
+  ]
+}
